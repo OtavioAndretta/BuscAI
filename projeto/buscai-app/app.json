@@ -1,7 +1,13 @@
 {
   "expo": {
-    "name": "buscai-app",
-    "slug": "buscai-app",
-    "version": "1.0.0"
+    "name": "BuscAI",
+    "slug": "buscai",
+    "version": "1.0.0",
+    "icon":"./assets/buscailogo.png",
+    "extra": {
+      "eas": {
+        "projectId": "70aeccf0-facd-46ce-8e10-f5ec4bb99637"
+      }
+    }
   }
 }
